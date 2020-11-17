@@ -1,7 +1,7 @@
 import users from "./__mocks__/users";
 
 function thisFunctionNameMakesNoSense() {
-  // TODO: add issue to fetch from a real API - Pau
+  // TODO: add issue to fetch from a real API - now Dani
   users.forEach((user) => {
     const currentTableNode = document.createElement("tr");
 
